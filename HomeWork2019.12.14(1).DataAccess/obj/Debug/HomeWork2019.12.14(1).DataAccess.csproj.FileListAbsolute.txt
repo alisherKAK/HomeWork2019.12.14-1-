@@ -1,0 +1,17 @@
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\HomeWork2019.12.14(1).DataAccess.dll.config
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\HomeWork2019.12.14(1).DataAccess.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\HomeWork2019.12.14(1).DataAccess.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\EntityFramework.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\HomeWork2019.12.14(1).AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\HomeWork2019.12.14(1).Models.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\HomeWork2019.12.14(1).AbstractModels.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\HomeWork2019.12.14(1).Models.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\EntityFramework.xml
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\obj\Debug\HomeWork2019.12.14(1).DataAccess.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\obj\Debug\HomeWork2019.12.14(1).DataAccess.csproj.CopyComplete
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\obj\Debug\HomeWork2019.12.14(1).DataAccess.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).DataAccess\obj\Debug\HomeWork2019.12.14(1).DataAccess.pdb

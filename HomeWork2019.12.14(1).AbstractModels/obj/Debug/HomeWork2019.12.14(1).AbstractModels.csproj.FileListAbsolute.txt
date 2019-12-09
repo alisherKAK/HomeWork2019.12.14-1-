@@ -1,0 +1,5 @@
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).AbstractModels\bin\Debug\HomeWork2019.12.14(1).AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).AbstractModels\bin\Debug\HomeWork2019.12.14(1).AbstractModels.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).AbstractModels\obj\Debug\HomeWork2019.12.14(1).AbstractModels.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).AbstractModels\obj\Debug\HomeWork2019.12.14(1).AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).AbstractModels\obj\Debug\HomeWork2019.12.14(1).AbstractModels.pdb

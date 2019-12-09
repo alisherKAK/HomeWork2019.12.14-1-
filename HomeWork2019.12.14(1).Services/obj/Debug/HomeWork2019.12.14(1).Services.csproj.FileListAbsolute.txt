@@ -1,0 +1,15 @@
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\HomeWork2019.12.14(1).Services.dll.config
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\HomeWork2019.12.14(1).Services.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\HomeWork2019.12.14(1).Services.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\EntityFramework.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\EntityFramework.SqlServer.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\HomeWork2019.12.14(1).AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\HomeWork2019.12.14(1).AbstractModels.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\EntityFramework.xml
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\EntityFramework.SqlServer.xml
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\ru\EntityFramework.resources.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\obj\Debug\HomeWork2019.12.14(1).Services.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\obj\Debug\HomeWork2019.12.14(1).Services.csproj.CopyComplete
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\obj\Debug\HomeWork2019.12.14(1).Services.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(1).Web\HomeWork2019.12.14(1).Services\obj\Debug\HomeWork2019.12.14(1).Services.pdb
